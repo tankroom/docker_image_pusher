@@ -1,2 +1,1 @@
-nvcr.io/nvidia/tritonserver:24.08-trtllm-python-py3
-nvcr.io/nvidia/cuda
+stable-diffusion:latest
