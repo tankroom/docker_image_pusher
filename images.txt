@@ -1,1 +1,1 @@
-stable-diffusion:latest
+louislam/uptime-kuma:1
