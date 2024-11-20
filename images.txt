@@ -1,1 +1,1 @@
-stable-diffusion/full
+soulteary/stable-diffusion:taiyi-0.1
