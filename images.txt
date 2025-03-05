@@ -1,1 +1,1 @@
-soulteary/stable-diffusion:taiyi-0.1
+louislam/uptime-kuma:2.0.0-beta.1
