@@ -1,4 +1,1 @@
-redis:6.2
-mysql:5.7
-mongo:3.2
-rabbitmq:3.6-management
+php:7.4-apache
