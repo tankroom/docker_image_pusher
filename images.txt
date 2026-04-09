@@ -1,4 +1,4 @@
 redis:6.2
 mysql:5.7
 mongo:3.2
-rabbit3.6
+rabbitmq:3.6-management
