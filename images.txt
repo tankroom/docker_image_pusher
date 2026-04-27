@@ -1,3 +1,3 @@
-php:7.4-fpm
-php:7.4-cli
-
+node:21
+node:22
+node:23
