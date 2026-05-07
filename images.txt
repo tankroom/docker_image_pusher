@@ -1,1 +1,1 @@
-ghcr.io/ggerganov/llama.cpp:server-cuda
+ghcr.io/ggerganov/llama.cpp:server-cuda-b4719
