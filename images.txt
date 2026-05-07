@@ -1,1 +1,1 @@
-ghcr.io/ggml-org/llama.cpp:server-openvino-b9049
+ubuntu:24.04
